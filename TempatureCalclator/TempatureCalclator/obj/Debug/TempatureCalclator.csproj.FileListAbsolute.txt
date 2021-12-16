@@ -1,0 +1,10 @@
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\bin\Debug\TempatureCalclator.exe.config
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\bin\Debug\TempatureCalclator.exe
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\bin\Debug\TempatureCalclator.pdb
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\obj\Debug\TempatureCalclator.csprojAssemblyReference.cache
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\obj\Debug\TempatureCalclator.Properties.Resources.resources
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\obj\Debug\TempatureCalclator.csproj.GenerateResource.cache
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\obj\Debug\TempatureCalclator.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\obj\Debug\TempatureCalclator.exe
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\obj\Debug\TempatureCalclator.pdb
+C:\Users\ADmin\Documents\helloworld\TempatureCalclator\TempatureCalclator\obj\Debug\TempatureCalclator.Form1.resources
