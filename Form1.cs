@@ -41,5 +41,16 @@ namespace TempatureCalclator
             double c = (f - 32) * 5/9;
             textBoxC.Text = c.ToString();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBoxC.Text = "";
+            textBoxF.Text = "";
+        }
     }
 }
